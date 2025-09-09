@@ -50,6 +50,7 @@ This project utilizes the **Breast Cancer Wisconsin (Diagnostic) Dataset**.
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/abhishekpatel10/Breast_Cancer_Prediction.git
+    cd Breast_Cancer_Prediction
     ```
 
 2.  **Install the required libraries:**
